@@ -3,7 +3,7 @@
  
 # Project deployed at
 
-<a href="https://mithesh14.github.io/canvas-drawing-website/">Movie website</a>
+<a href="https://mithesh14.github.io/Movie-website/">Movie website</a>
 
 # Screenshots and working explained
 
